@@ -1,0 +1,7 @@
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/install/local.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/PoseEstimationPCA.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/install.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arud/CLionProjects/PoseEstimationPCA (copy)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
