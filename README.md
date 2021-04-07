@@ -1,6 +1,6 @@
 # PoseEstimationPCA
 ## Motivation
-The aim of this project is to try to apply Principal Component Analysis (PCA) for sloving pose estimation problem on point clouds.
+The aim of this project is to try to apply Principal Component Analysis (PCA) for sloving pose estimation of point clouds problem.
 
 ## Algoritm
 1) Get the depth frame from camera (I use intel realsense d415, where RGB channel is absent)
